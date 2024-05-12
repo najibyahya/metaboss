@@ -1,1 +1,1 @@
-{"code":1,"type":2,"data":{"id":6457664928,"username":"haji joko","hash":"a5b9a5790714d4d22e1ba704ba933c0f299029b0819ddcee48e4869dd98817a9","timeAuth":1715444322}}
+{"code":1,"type":2,"data":{"id":6457664928,"username":"haji joko","hash":9ddcee48e4869dd98817a9","timeAuth":1715444322}}
